@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **C++ projects & Machine Learning**  
 - 🌱 Learning **Data Structures & Algorithms**  
 - 💡 Interested in **Freelancing, AI, and Software Development**  
-- 📫 Contact me: zuusa2005@gmail.com  
+- 📫 Contact me: zulqarnainsaeed2005@gmail.com
 - ⚡ Fun Fact: I love coding & exploring new technologies!  
 
 ## 💻 Tech Stack:

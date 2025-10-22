@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zulqarnain Saeed (ZAQ)  
+# 👋 Hi, I'm Zulqarnain Saeed 
 
 🎓 **CS Student | 👨‍💻 C++ Developer | 🚀 AI & ML Enthusiast**  
 

@@ -1,70 +1,89 @@
 <h1 align="center">👋 Hi, I'm Zulqarnain Saeed</h1>
-<h3 align="center">Passionate Computer Science Student | Future Software Engineer 🚀</h3>
+<h3 align="center">Founder of Zentorix 🚀 | Computer Science Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Building+the+Future%2C+One+Line+at+a+Time;Aspiring+Software+Engineer;Problem+Solver+%26+Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <a href="https://zentorix.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Founder%20%26%20Lead%20Dev-Zentorix-00B4D8?style=for-the-badge&logo=rocket&logoColor=white" alt="Zentorix Founder Badge" />
+  </a>
 </p>
 
-<hr>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Founder+%26+Lead+Dev+%40+Zentorix;Building+the+Future%2C+One+Line+at+a+Time;C%2B%2B+%26+Python+Specialist;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-I'm a dedicated and ambitious Computer Science student at the University of Central Punjab, driven by a passion for creating efficient, scalable, and impactful software solutions. My academic journey has equipped me with a strong foundation in **C++, Python, Data Structures & Algorithms (DSA), and Object-Oriented Programming (OOP)**. I thrive on solving complex problems and transforming ideas into functional, well-architected code.
+I'm a dedicated Computer Science student at the **University of Central Punjab (UCP)** and the **Founder of [Zentorix](https://zentorix.netlify.app/)**, a software company dedicated to building modern, efficient, and scalable digital solutions. 
 
-🎯 **My Goal:** To secure an internship or entry-level Software Engineering role where I can apply my technical skills, contribute to innovative projects, and continue learning from industry experts.
+Driven by a strong passion for software engineering, I specialize in **C++, Python, Data Structures & Algorithms (DSA), and Object-Oriented Design**. Whether it's architecting complex algorithms, simulating operating systems, or leading client projects at Zentorix, I thrive on solving complex technical challenges.
+
+* 💡 **Current Focus:** Building & scaling software products at [Zentorix](https://zentorix.netlify.app/) & sharpening DSA skills.
+* 🎓 **Academics:** BS Computer Science @ UCP | **CGPA: 3.56** | 🥇 **100% Merit Scholarship Holder**
+* 🎯 **Goal:** Securing a Software Engineering Internship / Entry-Level Role to build impactful systems & collaborate with top engineers.
+
+---
+
+### 🌐 Company Spotlight
+
+<div align="center">
+  <h3>💼 Zentorix — Software & Digital Solutions</h3>
+  <p><i>Building cutting-edge web applications, custom software, and digital solutions for clients worldwide.</i></p>
+  <a href="https://zentorix.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Zentorix-zentorix.netlify.app-00599C?style=for-the-badge&logo=netlify&logoColor=white" alt="Zentorix Website"/>
+  </a>
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Core Competencies
 
-**Languages:**
-*   **C++:** Advanced (Academic & Project Proficiency)
-*   **Python:** Intermediate
-*   **MySQL:** Database Management
-*   **HTML5 & CSS3:** Front-End Basics
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
 
-**Core Concepts:**
-*   Object-Oriented Programming (OOP) 🧬
-*   Data Structures & Algorithms (DSA) 📊
-*   Operating Systems 💻
-*   Database Management Systems (DBMS) 🗄️
+<br>
 
-**Tools & Platforms:**
-*   Git & GitHub 🐙
-*   Visual Studio & VS Code 📝
-*   Linux/Unix Environment 🐧
+| **Category** | **Skills & Technologies** |
+| :--- | :--- |
+| **Languages** | `C++` (Advanced), `Python` (Intermediate), `JavaScript`, `SQL` |
+| **Core CS Concepts** | `Data Structures & Algorithms (DSA)`, `Object-Oriented Programming (OOP)`, `Operating Systems`, `DBMS` |
+| **Web & Tools** | `HTML5`, `CSS3`, `Git & GitHub`, `VS Code`, `Visual Studio`, `Linux/Unix`, `Netlify` |
+| **Leadership** | `Project Management`, `Software Architecture`, `Team Collaboration`, `Client Communication` |
 
 ---
 
 ### ✨ Featured Projects
 
-Here are some of the key projects I've built to showcase my skills in software architecture, DSA implementation, and problem-solving.
+#### 🌐 [Nexus-Grid-Recommendation-System](https://github.com/zulqarnain-saeed/Nexus-Grid-Recommendation-System)
+> **Tech Stack:** `C++` `Graphs` `Dijkstra's Algorithm` `Huffman Coding` `BST` `AVL Trees`
+* Developed a city emergency response and resource management system with 10+ modules.
+* Implemented 12+ data structures & algorithms for real-time route optimization and emergency dispatching.
+* Efficiently processed 100+ data records for route navigation and resource distribution.
 
-#### 🌐 Nexus-Grid-Recommendation-System
-> **`C++` `Graphs` `Dijkstra's Algorithm` `Huffman Coding`**
-> *(University Project | May 2026 - June 2026)*
-> *   Developed a sophisticated city emergency response and resource management system with 10+ modules.
-> *   Implemented 12+ data structures & algorithms (Graphs, Dijkstra's, BST, AVL, etc.) for efficient navigation, dispatching, and inventory management.
-> *   Processed 100+ records from text files for route optimization and emergency management.
-> *   **[View Repository](https://github.com/zulqarnain-saeed/Nexus-Grid-Recommendation-System)**
+#### 🏢 [Zentorix Official Platform](https://zentorix.netlify.app/)
+> **Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design` `Netlify`
+* Designed and deployed the official website for **Zentorix**, showcasing software services, client portfolios, and company offerings.
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary><b>📂 More Featured Projects (Click to expand)</b></summary>
 
-*   **🖥️ Interactive-OS-Simulator** (`C++`, `OOP`, `FCFS`, `Priority Scheduling`): Built an 8-module OS Simulator with process scheduling, memory management, and a file system. ([View Repo](https://github.com/zulqarnain-saeed/Interactive-OS-Simulator))
-*   **🏦 Zaq Bank Management System** (`C++`, `File Handling`): Created a console-based banking system with secure login, core banking operations, and a chatbot. ([View Repo](https://github.com/zulqarnain-saeed/Zaq-Bank-Management-System))
-*   **🧮 Zakat Calculator** (`C++`): Developed a console app to accurately calculate Zakat based on Islamic principles. ([View Repo](https://github.com/zulqarnain-saeed/Zakat-Calculator))
+<br>
+
+* **🖥️ [Interactive-OS-Simulator](https://github.com/zulqarnain-saeed/Interactive-OS-Simulator)** (`C++`, `OOP`, `FCFS`, `Priority Scheduling`)
+  * Built an 8-module OS Simulator featuring CPU process scheduling, virtual memory management, and simulated file system storage.
+* **🏦 [Zaq Bank Management System](https://github.com/zulqarnain-saeed/Zaq-Bank-Management-System)** (`C++`, `File Handling`, `OOP`)
+  * Created a robust console banking application with secure user authentication, core financial transactions, and an automated assistant.
+* **🧮 [Zakat Calculator](https://github.com/zulqarnain-saeed/Zakat-Calculator)** (`C++`)
+  * Engineered a high-precision calculation engine adhering strictly to Islamic wealth evaluation principles.
 
 </details>
 
@@ -72,27 +91,43 @@ Here are some of the key projects I've built to showcase my skills in software a
 
 ### 🎓 Education & Certifications
 
-**Bachelor of Computer Science**
-*University of Central Punjab, Lahore* | 2024 - 2028 | **CGPA: 3.56**
-*   🥇 Awarded a **100% Merit-Based Scholarship** for outstanding academic performance.
+#### 📜 **Bachelor of Science in Computer Science**
+**University of Central Punjab (UCP), Lahore** | *2024 – 2028*
+* **CGPA:** `3.56`
+* 🥇 Awarded **100% Merit-Based Scholarship** for academic excellence.
 
-**Certifications:**
-*   [Programming with C++](https://www.simplilearn.com/) - *Simplilearn* (2025)
-*   [Technical Support Fundamentals](https://www.coursera.org/google-certificates) - *Google* (2025)
-*   [Programming for Everybody (Python)](https://www.coursera.org/specializations/python) - *University of Michigan* (2025)
+#### 🏅 **Certifications**
+* 📜 **[Programming with C++](https://www.simplilearn.com/)** – *Simplilearn*
+* 📜 **[Google Technical Support Fundamentals](https://www.coursera.org/google-certificates)** – *Google*
+* 📜 **[Programming for Everybody (Python)](https://www.coursera.org/specializations/python)** – *University of Michigan*
 
 ---
 
-### 🏆 Skills & Attributes
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zulqarnain-saeed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Zulqarnain's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnain-saeed&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zulqarnain-saeed&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 Skills & Soft Competencies
 
 <div align="center">
 
-| **Technical Skills** | **Soft Skills** | **Languages** |
+| **Technical Mastery** | **Professional Soft Skills** | **Languages** |
 | :--- | :--- | :--- |
 | `Data Structures & Algorithms` | `Problem Solving 🧩` | English (Professional) 🇬🇧 |
-| `Object-Oriented Design` | `Analytical Thinking 🧠` | Urdu (Native) 🇵🇰 |
-| `Software Debugging` | `Team Collaboration 🤝` | Punjabi (Professional) |
-| `System Architecture` | `Communication 🗣️` | Saraiki (Basic) |
+| `Software Architecture` | `Leadership & Entrepreneurship 💼` | Urdu (Native) 🇵🇰 |
+| `Object-Oriented Design (OOD)` | `Analytical & Critical Thinking 🧠` | Punjabi (Professional) |
+| `System Debugging & Testing` | `Team Collaboration 🤝` | Saraiki (Basic) |
 
 </div>
 
@@ -100,18 +135,27 @@ Here are some of the key projects I've built to showcase my skills in software a
 
 ### 📫 Connect with Me
 
-I'm always open to collaborating on interesting projects and connecting with like-minded individuals. Feel free to reach out!
+I'm always open to collaborating on open-source projects, discussing software architecture, or exploring business opportunities.
 
 <p align="center">
-<a href="https://linkedin.com/in/zulqarnain-saeed2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zulqarnain-saeed" height="30" width="40" /></a>
-<a href="https://github.com/zulqarnain-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zulqarnain-saeed" height="30" width="40" /></a>
-<a href="mailto:zulqarnain.saeed2005@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://zentorix.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Zentorix-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zentorix Website" />
+  </a>
+  <a href="https://linkedin.com/in/zulqarnain-saeed2005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/zulqarnain-saeed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:zulqarnain.saeed2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=zulqarnain-saeed&label=Profile%20Views&color=0e75b6&style=flat" alt="zulqarnain-saeed" />
+  <img src="https://komarev.com/ghpvc/?username=zulqarnain-saeed&label=Profile%20Views&color=0e75b6&style=flat" alt="zulqarnain-saeed profile views" />
 </p>
 
 <p align="center">
